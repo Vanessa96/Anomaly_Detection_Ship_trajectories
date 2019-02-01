@@ -21,7 +21,7 @@ for i in range(gdf1.shape[0]):
             print(g2)
     g.append(g2)
 
-webbrowser.open("http://localhost/ship/index.php");
+webbrowser.open("http://localhost/ship/index.php"); #open web browser
 from abnormalitytest3 import mainfunction
 time.sleep(5)
 mainfunction(g)
